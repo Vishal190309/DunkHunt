@@ -54,9 +54,6 @@
     <ClCompile Include="Source\Player\PlayerModel.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="Source\Player\PlayerView.cpp">
-      <Filter>Source Files</Filter>
-    </ClCompile>
     <ClCompile Include="Source\Gameplay\GameplayController.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
@@ -147,9 +144,6 @@
       <Filter>Header Files</Filter>
     </ClInclude>
     <ClInclude Include="Header\Player\PlayerModel.h">
-      <Filter>Header Files</Filter>
-    </ClInclude>
-    <ClInclude Include="Header\Player\PlayerView.h">
       <Filter>Header Files</Filter>
     </ClInclude>
     <ClInclude Include="Header\Gameplay\GameplayService.h">
